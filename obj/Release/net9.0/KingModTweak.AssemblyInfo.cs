@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KingModTweak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a350bd819199e6b89c5743007d3b5926dbe31725")]
 [assembly: System.Reflection.AssemblyProductAttribute("KingModTweak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KingModTweak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
